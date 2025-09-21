@@ -38,8 +38,8 @@ uv add "mcp[cli]"
 Start the virtual environment
 
 In terminal:
-```bash
-source .venv/bin/activate
+```
+.venv\Scripts\activate
 ```
 
 NOTE: To stop the virtual environment:
